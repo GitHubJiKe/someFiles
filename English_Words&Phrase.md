@@ -29,3 +29,11 @@ Would that be a reasonable compromise?
 这样是不是一个合理的让步呢？
 ****
 #day4
+I'll have think about it.
+我会考虑考虑的。
+Sorry,I don't think I've got the time.
+不好意思，我没时间。
+It's not my cup of tea.
+那可不是我的菜。
+Great! Sign me up please.
+太棒了，帮我签上名。
