@@ -37,3 +37,15 @@ It's not my cup of tea.
 那可不是我的菜。
 Great! Sign me up please.
 太棒了，帮我签上名。
+****
+#day5
+I'm really sorry but I'm not sure what to write.
+很抱歉，我不知道怎么填这个表格。
+Could you explain this form to me please?
+能请你帮我解释一下这个表格吗？
+I konw you're busy but I'd be greateful if you could help me.
+我知道你很忙，但是如果你能帮我一下的话我会很感激。
+Could I borrow a pen please?
+我能借一只笔吗？
+You look prettier in real life than you do in your passport photo.
+你本人比护照上的照片好看多了。
