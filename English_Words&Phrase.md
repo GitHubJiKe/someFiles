@@ -49,3 +49,11 @@ Could I borrow a pen please?
 我能借一只笔吗？
 You look prettier in real life than you do in your passport photo.
 你本人比护照上的照片好看多了。
+****
+#day6
+Could you say that again please?
+你能再说一遍吗？
+Sorry,I don't understand what you mean.
+对不起，我不懂你说什么意思。
+Could you explain that in a different way please?
+你能用别的方法解释一下吗？
