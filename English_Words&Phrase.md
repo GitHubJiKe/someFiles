@@ -57,3 +57,13 @@ Sorry,I don't understand what you mean.
 对不起，我不懂你说什么意思。
 Could you explain that in a different way please?
 你能用别的方法解释一下吗？
+****
+#day7
+Would you mind if I had a chance to speak please?
+你介不介意给我个机会说两句？
+I would like to say something too, if you don't mind.
+你不介意的话，我也有些东西要说。
+Thank you for giving me the chance to speak.
+谢谢你给我机会让我能发言。
+I'd like to contribute to the discussion please. 
+我也想为讨论贡献力量。
