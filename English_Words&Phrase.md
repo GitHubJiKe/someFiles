@@ -67,3 +67,12 @@ Thank you for giving me the chance to speak.
 谢谢你给我机会让我能发言。
 I'd like to contribute to the discussion please. 
 我也想为讨论贡献力量。
+#day 8
+Please could you check if you have any of these books in stock?
+请问您能帮我查一下这些书在书库里还有吗？
+Could you reserve them for me please ?
+请问你能帮我预定一下吗？
+Could you put them by for me when they come in please?
+这些书还回来的时候，你能帮我留一下吗？
+When do you think they will be availavle?
+你觉得神魔时候可以借到这些书？
