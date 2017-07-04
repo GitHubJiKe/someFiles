@@ -76,3 +76,14 @@ Could you put them by for me when they come in please?
 这些书还回来的时候，你能帮我留一下吗？
 When do you think they will be availavle?
 你觉得神魔时候可以借到这些书？
+# day 9
+What a mess! 
+真是一团糟！
+Excuse me, can you tell me if you hanve any food suitable for vegetarians please?
+不好意思，请问你能告诉我哪些食物适合素食者吃的吗？
+Has this got meat in it?
+这里面有肉吗？
+Where can I find...?
+我在哪能找到？
+Do you have any...?
+你有...吗?
