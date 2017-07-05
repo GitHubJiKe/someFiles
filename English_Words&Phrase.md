@@ -87,3 +87,18 @@ Where can I find...?
 我在哪能找到？
 Do you have any...?
 你有...吗?
+# day 10
+It's easier said than done.
+说着容易做着难。
+I need some more details before I begin my assignment please.
+在我开始着手做我的作业之前，我希望了解更多的细节。
+I really need to know the theme of the assignment.
+我真的很需要知道作业的主题是什么。
+How many words do you want ?
+多少字要求？
+How would you like it oresented?
+你希望怎样呈现作业？
+How should we deliver it to you when it's finished?
+做完了怎么交给你？
+When is the deadline for completing our assigment?
+完成作业的截止日期是什么时候？
