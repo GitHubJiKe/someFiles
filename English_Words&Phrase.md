@@ -67,6 +67,7 @@ Thank you for giving me the chance to speak.
 谢谢你给我机会让我能发言。
 I'd like to contribute to the discussion please. 
 我也想为讨论贡献力量。
+****
 #day 8
 Please could you check if you have any of these books in stock?
 请问您能帮我查一下这些书在书库里还有吗？
@@ -76,6 +77,7 @@ Could you put them by for me when they come in please?
 这些书还回来的时候，你能帮我留一下吗？
 When do you think they will be availavle?
 你觉得神魔时候可以借到这些书？
+****
 # day 9
 What a mess! 
 真是一团糟！
@@ -87,6 +89,7 @@ Where can I find...?
 我在哪能找到？
 Do you have any...?
 你有...吗?
+****
 # day 10
 It's easier said than done.
 说着容易做着难。
@@ -102,3 +105,13 @@ How should we deliver it to you when it's finished?
 做完了怎么交给你？
 When is the deadline for completing our assigment?
 完成作业的截止日期是什么时候？
+****
+# day 11
+I seem to have lost my work, what can I do ?
+我好想弄丢了我的文件，我该怎么办？
+Do you think you can restore my work please?
+你觉得你能帮我恢复文件吗？
+Is there anything you can do?
+你能做些什么？
+
+ 
